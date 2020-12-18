@@ -1,0 +1,14 @@
+{
+  "name": "node-streams",
+  "version": "1.0.0",
+  "description": "Basic streams in Node",
+  "main": "index.js",
+  "author": "Igor Moura",
+  "license": "MIT",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
